@@ -1,0 +1,15 @@
+Package: geopattern
+Title: geopattern HTML widget for R
+Version: 0.0.0.9000
+Authors@R: person("Dirk", "Schumacher", email = "mail@dirk-schumachet.net", role = c("aut", "cre"))
+Description: The is a JavaScript (btmills/geopattern) port of jasonlong/geo_pattern.
+             It takes a string, hashes it and produces a beautiful, unique image out of it.
+             A visual cryptographic hash.
+Depends:
+    R (>= 3.2.0)
+License: MIT + file LICENSE
+Imports:
+ htmlwidgets
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1

@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^.bowerrc
+^.bower.json
+^.eslintrc
+^.npmignore
+^README\.Rmd$
+^README-.*\.png$

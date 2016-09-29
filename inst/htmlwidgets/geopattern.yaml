@@ -1,0 +1,14 @@
+---
+dependencies:
+  -
+    name: geopattern
+    script: js/geopattern.min.js
+    src: htmlwidgets/lib/geopattern
+    stylesheet: css/geopattern.css
+    version: "1.2.3"
+  -
+    name: jquery
+    script: js/jquery.min.js
+    src: htmlwidgets/lib/geopattern
+    stylesheet: css/geopattern.css
+    version: "2.1.0"
