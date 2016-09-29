@@ -58,7 +58,7 @@ server <- function(input, output) {
 ui <- fluidPage(
   
   # Application title
-  titlePanel("Hash all the data!"),
+  titlePanel("Hash all the rows!"),
   
   # Sidebar with a slider input for number of bins
   sidebarLayout(
